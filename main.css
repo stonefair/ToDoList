@@ -1,0 +1,34 @@
+#textArea{
+    border-radius: 15px;
+    width: 50%;
+    background-color: #81e9b079;
+    height: 50px;
+    padding-left: 50px;
+}
+
+#textArea::placeholder{
+    font-size: 15px;
+    
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 20px;
+    border: none;
+    width: 10%;
+    height: 40px;
+    background-color: blueviolet;
+}
+
+button:hover{
+    background-color: blue
+}
+
+li{
+    list-style: none;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: 5px;
+    padding: 10px 10px;
+    width: 30%;
+}
